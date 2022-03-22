@@ -1,0 +1,10 @@
+﻿INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 03111', N'Logic Circuits and Design (LEC)1', N'Perry Caubang', N'M 10:00am-1:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0311.1', N'Logic Circuits and Design (LAB)', N'Perry Caubang', N'Th 10:00am-1:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0312.1', N'Introduction to HDL', N'Maria Sayo', N'T 1:00pm-4:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0313', N'Operating Systems', N'Eufemia Garcia', N'MTh 5:30pm-7:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0316', N'Fundamentals of Mixed Signals', N'Eufemia Garcia', N'MTh 7:00pm-8:30pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0317.1', N'Computer Engineering Drafting and Design', N'Maria Sayo', N'W 4:00pm-7:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 0318', N'ELECTIVE 1 (LEC) ', N'Maria Sayo', N'W 7:00pm-9:00pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 314', N'Data and Digital Communications', N'Wenceslao Nidea', N'Sat 2:30pm-5:30pm', 30, N'1')
+INSERT INTO [dbo].[Enrollment] ([Subject Code], [Subject Name], [Professor], [Schedule], [Slots], [Section]) VALUES (N'CPE 315', N'Feedback and Control Systems', N'Wenceslao Nidea', N'Sat 5:30pm -8:30pm', 30, N'1')
+
